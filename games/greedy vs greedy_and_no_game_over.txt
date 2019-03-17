@@ -1,0 +1,1171 @@
+*************************Wed Oct  1 23:47:03 2014*************************
+players/greedy.py moves n
++ 0 = 0
+[2, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 0
+[2, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[2, 0, 0, 2]
+
+players/greedy.py moves n
++ 4 = 4
+[4, 0, 0, 2]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 4
+[2, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[4, 0, 0, 4]
+
+players/greedy.py moves e
++ 8 = 12
+[0, 0, 0, 2]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[2, 0, 0, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 4
+[2, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 2]
+[2, 0, 0, 8]
+
+players/greedy.py moves n
++ 4 = 16
+[4, 0, 0, 2]
+[0, 0, 0, 8]
+[0, 0, 0, 0]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 4
+[2, 0, 0, 0]
+[0, 0, 0, 2]
+[0, 0, 0, 8]
+[4, 0, 0, 2]
+
+players/greedy.py moves n
++ 0 = 16
+[2, 0, 0, 2]
+[4, 0, 0, 8]
+[0, 0, 0, 2]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 8
+[2, 0, 0, 0]
+[0, 0, 0, 2]
+[2, 0, 0, 8]
+[4, 0, 0, 4]
+
+players/greedy.py moves e
++ 8 = 24
+[0, 0, 0, 2]
+[0, 0, 0, 2]
+[0, 0, 2, 8]
+[2, 0, 0, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 20 = 28
+[2, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 4]
+[2, 0, 2, 16]
+
+players/greedy.py moves n
++ 4 = 28
+[4, 0, 2, 4]
+[0, 0, 0, 16]
+[0, 0, 0, 0]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 28
+[2, 0, 0, 0]
+[0, 0, 0, 4]
+[0, 0, 0, 16]
+[4, 0, 2, 2]
+
+players/greedy.py moves e
++ 4 = 32
+[0, 0, 0, 2]
+[0, 0, 0, 4]
+[0, 0, 0, 16]
+[2, 0, 4, 4]
+
+players/greedy_and_no_game_over.py moves w
++ 8 = 36
+[2, 0, 0, 2]
+[4, 0, 0, 0]
+[16, 0, 0, 0]
+[2, 8, 0, 0]
+
+players/greedy.py moves e
++ 4 = 36
+[0, 0, 0, 4]
+[0, 0, 0, 4]
+[0, 0, 0, 16]
+[2, 0, 2, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 8 = 44
+[2, 0, 0, 0]
+[0, 0, 0, 8]
+[0, 0, 0, 16]
+[2, 0, 2, 8]
+
+players/greedy.py moves n
++ 4 = 40
+[4, 0, 2, 8]
+[0, 0, 0, 16]
+[0, 0, 0, 8]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 44
+[2, 0, 0, 8]
+[0, 0, 0, 16]
+[0, 0, 0, 8]
+[4, 0, 2, 2]
+
+players/greedy.py moves e
++ 4 = 44
+[0, 0, 2, 8]
+[0, 0, 0, 16]
+[0, 0, 0, 8]
+[2, 0, 4, 4]
+
+players/greedy_and_no_game_over.py moves w
++ 8 = 52
+[2, 8, 0, 2]
+[16, 0, 0, 0]
+[8, 0, 0, 0]
+[2, 8, 0, 0]
+
+players/greedy.py moves n
++ 16 = 60
+[2, 16, 0, 2]
+[16, 0, 0, 0]
+[8, 0, 0, 0]
+[2, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 56
+[2, 2, 0, 0]
+[16, 0, 0, 0]
+[8, 0, 0, 0]
+[2, 16, 0, 4]
+
+players/greedy.py moves e
++ 4 = 64
+[0, 0, 0, 4]
+[0, 0, 0, 16]
+[0, 0, 0, 8]
+[2, 2, 16, 4]
+
+players/greedy_and_no_game_over.py moves w
++ 4 = 60
+[4, 0, 0, 2]
+[16, 0, 0, 0]
+[8, 0, 0, 0]
+[4, 16, 4, 0]
+
+players/greedy.py moves n
++ 0 = 64
+[4, 16, 4, 2]
+[16, 0, 0, 0]
+[8, 0, 0, 0]
+[4, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 64
+[4, 2, 0, 0]
+[16, 0, 0, 0]
+[8, 0, 0, 0]
+[4, 16, 4, 4]
+
+players/greedy.py moves e
++ 8 = 72
+[0, 0, 4, 2]
+[0, 0, 0, 16]
+[0, 0, 0, 8]
+[2, 4, 16, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 16 = 80
+[2, 0, 0, 0]
+[0, 0, 0, 2]
+[0, 0, 4, 16]
+[2, 4, 16, 16]
+
+players/greedy.py moves n
++ 36 = 108
+[4, 4, 4, 2]
+[0, 0, 16, 32]
+[0, 0, 0, 0]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 8 = 88
+[8, 4, 2, 2]
+[16, 32, 0, 0]
+[0, 0, 0, 0]
+[2, 0, 0, 0]
+
+players/greedy.py moves e
++ 4 = 112
+[0, 8, 4, 4]
+[0, 0, 16, 32]
+[0, 0, 0, 0]
+[2, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 12 = 100
+[8, 8, 0, 2]
+[16, 32, 0, 0]
+[0, 0, 0, 0]
+[4, 0, 0, 0]
+
+players/greedy.py moves e
++ 16 = 128
+[0, 0, 16, 2]
+[0, 0, 16, 32]
+[0, 0, 0, 0]
+[2, 0, 0, 4]
+
+players/greedy_and_no_game_over.py moves s
++ 32 = 132
+[2, 0, 0, 0]
+[0, 0, 0, 2]
+[0, 0, 0, 32]
+[2, 0, 32, 4]
+
+players/greedy.py moves n
++ 4 = 132
+[4, 0, 32, 2]
+[0, 0, 0, 32]
+[0, 0, 0, 4]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 132
+[2, 0, 0, 2]
+[0, 0, 0, 32]
+[0, 0, 0, 4]
+[4, 0, 32, 2]
+
+players/greedy.py moves e
++ 4 = 136
+[0, 0, 0, 4]
+[0, 0, 0, 32]
+[0, 0, 0, 4]
+[2, 4, 32, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 132
+[2, 0, 0, 4]
+[0, 0, 0, 32]
+[0, 0, 0, 4]
+[2, 4, 32, 2]
+
+players/greedy.py moves n
++ 4 = 140
+[4, 4, 32, 4]
+[0, 0, 0, 32]
+[0, 0, 0, 4]
+[0, 0, 2, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 12 = 144
+[8, 32, 4, 2]
+[32, 0, 0, 0]
+[4, 0, 0, 0]
+[4, 0, 0, 0]
+
+players/greedy.py moves n
++ 8 = 148
+[8, 32, 4, 2]
+[32, 0, 0, 0]
+[8, 0, 0, 0]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 148
+[2, 0, 0, 0]
+[8, 0, 0, 0]
+[32, 0, 0, 0]
+[8, 32, 4, 4]
+
+players/greedy.py moves e
++ 8 = 156
+[0, 0, 0, 2]
+[0, 0, 0, 8]
+[0, 0, 0, 32]
+[2, 8, 32, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 148
+[2, 0, 0, 2]
+[0, 0, 0, 8]
+[0, 0, 0, 32]
+[2, 8, 32, 8]
+
+players/greedy.py moves n
++ 4 = 160
+[4, 8, 32, 2]
+[0, 0, 0, 8]
+[0, 0, 0, 32]
+[0, 0, 2, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 148
+[2, 0, 0, 2]
+[0, 0, 0, 8]
+[0, 0, 32, 32]
+[4, 8, 2, 8]
+
+players/greedy.py moves e
++ 68 = 228
+[0, 0, 0, 4]
+[0, 0, 0, 8]
+[2, 0, 0, 64]
+[4, 8, 2, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 148
+[2, 0, 0, 4]
+[0, 0, 0, 8]
+[2, 0, 0, 64]
+[4, 8, 2, 8]
+
+players/greedy.py moves n
++ 4 = 232
+[4, 8, 2, 4]
+[4, 0, 0, 8]
+[0, 0, 0, 64]
+[0, 0, 2, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 12 = 160
+[2, 0, 0, 4]
+[0, 0, 0, 8]
+[0, 0, 0, 64]
+[8, 8, 4, 8]
+
+players/greedy.py moves e
++ 16 = 248
+[0, 0, 2, 4]
+[0, 0, 0, 8]
+[0, 0, 0, 64]
+[2, 16, 4, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 160
+[2, 0, 0, 4]
+[0, 0, 0, 8]
+[0, 0, 2, 64]
+[2, 16, 4, 8]
+
+players/greedy.py moves n
++ 4 = 252
+[4, 16, 2, 4]
+[0, 0, 4, 8]
+[0, 0, 0, 64]
+[0, 0, 2, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 160
+[2, 0, 0, 4]
+[0, 0, 2, 8]
+[0, 0, 4, 64]
+[4, 16, 2, 8]
+
+players/greedy.py moves n
++ 0 = 252
+[2, 16, 2, 4]
+[4, 0, 4, 8]
+[0, 0, 2, 64]
+[0, 0, 2, 8]
+
+players/greedy_and_no_game_over.py moves w
++ 8 = 168
+[2, 16, 2, 4]
+[8, 8, 0, 2]
+[2, 64, 0, 0]
+[2, 8, 0, 0]
+
+players/greedy.py moves e
++ 16 = 268
+[2, 16, 2, 4]
+[0, 0, 16, 2]
+[0, 0, 2, 64]
+[2, 0, 2, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 8 = 176
+[2, 0, 0, 4]
+[0, 0, 2, 2]
+[0, 0, 16, 64]
+[4, 16, 4, 8]
+
+players/greedy.py moves e
++ 4 = 272
+[0, 0, 2, 4]
+[0, 0, 0, 4]
+[2, 0, 16, 64]
+[4, 16, 4, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 8 = 184
+[2, 0, 0, 0]
+[0, 0, 2, 8]
+[2, 0, 16, 64]
+[4, 16, 4, 8]
+
+players/greedy.py moves n
++ 4 = 276
+[4, 16, 2, 8]
+[4, 0, 16, 64]
+[0, 0, 4, 8]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 8 = 192
+[2, 0, 0, 8]
+[0, 0, 2, 64]
+[0, 0, 16, 8]
+[8, 16, 4, 2]
+
+players/greedy.py moves n
++ 0 = 276
+[2, 16, 2, 8]
+[8, 0, 16, 64]
+[0, 0, 4, 8]
+[0, 0, 2, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 4 = 196
+[2, 16, 2, 8]
+[8, 16, 64, 2]
+[4, 8, 0, 0]
+[4, 0, 0, 0]
+
+players/greedy.py moves n
++ 40 = 316
+[2, 32, 2, 8]
+[8, 8, 64, 2]
+[8, 0, 0, 0]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 20 = 216
+[2, 0, 0, 0]
+[0, 0, 0, 0]
+[2, 32, 2, 8]
+[16, 8, 64, 4]
+
+players/greedy.py moves n
++ 4 = 320
+[4, 32, 2, 8]
+[16, 8, 64, 4]
+[0, 0, 0, 0]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 216
+[2, 0, 0, 0]
+[0, 0, 0, 8]
+[4, 32, 2, 4]
+[16, 8, 64, 2]
+
+players/greedy.py moves n
++ 0 = 320
+[2, 32, 2, 8]
+[4, 8, 64, 4]
+[16, 0, 0, 2]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 220
+[2, 0, 0, 0]
+[2, 0, 0, 8]
+[4, 32, 2, 4]
+[16, 8, 64, 4]
+
+players/greedy.py moves n
++ 12 = 332
+[4, 32, 2, 8]
+[4, 8, 64, 8]
+[16, 0, 0, 0]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 24 = 244
+[2, 0, 0, 0]
+[0, 0, 0, 0]
+[8, 32, 2, 16]
+[16, 8, 64, 2]
+
+players/greedy.py moves n
++ 0 = 332
+[2, 32, 2, 16]
+[8, 8, 64, 2]
+[16, 0, 0, 0]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 16 = 260
+[2, 32, 2, 16]
+[16, 64, 2, 2]
+[16, 0, 0, 0]
+[2, 0, 0, 0]
+
+players/greedy.py moves n
++ 36 = 368
+[2, 32, 4, 16]
+[32, 64, 0, 2]
+[2, 0, 0, 0]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 264
+[2, 0, 0, 0]
+[2, 0, 0, 0]
+[32, 32, 0, 16]
+[2, 64, 4, 4]
+
+players/greedy.py moves e
++ 72 = 440
+[0, 0, 0, 2]
+[0, 0, 0, 2]
+[0, 0, 64, 16]
+[2, 2, 64, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 132 = 396
+[2, 0, 0, 0]
+[0, 0, 0, 4]
+[0, 0, 0, 16]
+[2, 2, 128, 8]
+
+players/greedy.py moves n
++ 4 = 444
+[4, 2, 128, 4]
+[0, 0, 0, 16]
+[0, 0, 0, 8]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 396
+[2, 0, 0, 4]
+[0, 0, 0, 16]
+[0, 0, 0, 8]
+[4, 2, 128, 2]
+
+players/greedy.py moves n
++ 0 = 444
+[2, 2, 128, 4]
+[4, 0, 0, 16]
+[0, 0, 0, 8]
+[0, 0, 2, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 8 = 404
+[4, 128, 4, 2]
+[4, 16, 0, 0]
+[8, 0, 0, 0]
+[4, 0, 0, 0]
+
+players/greedy.py moves n
++ 8 = 452
+[8, 128, 4, 2]
+[8, 16, 0, 0]
+[4, 0, 0, 0]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 20 = 424
+[2, 0, 0, 0]
+[0, 0, 0, 0]
+[16, 128, 0, 0]
+[4, 16, 4, 4]
+
+players/greedy.py moves e
++ 8 = 460
+[0, 0, 0, 2]
+[0, 0, 0, 0]
+[0, 0, 16, 128]
+[2, 4, 16, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 32 = 456
+[2, 0, 0, 0]
+[0, 0, 0, 2]
+[0, 0, 0, 128]
+[2, 4, 32, 8]
+
+players/greedy.py moves n
++ 4 = 464
+[4, 4, 32, 2]
+[0, 0, 0, 128]
+[0, 0, 0, 8]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 8 = 464
+[8, 32, 2, 2]
+[128, 0, 0, 0]
+[8, 0, 0, 0]
+[2, 0, 0, 0]
+
+players/greedy.py moves e
++ 4 = 468
+[0, 8, 32, 4]
+[0, 0, 0, 128]
+[0, 0, 0, 8]
+[2, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 4 = 468
+[8, 32, 4, 2]
+[128, 0, 0, 0]
+[8, 0, 0, 0]
+[4, 0, 0, 0]
+
+players/greedy.py moves n
++ 0 = 468
+[8, 32, 4, 2]
+[128, 0, 0, 0]
+[8, 0, 0, 0]
+[4, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 472
+[8, 2, 0, 0]
+[128, 0, 0, 0]
+[8, 0, 0, 0]
+[4, 32, 4, 4]
+
+players/greedy.py moves e
++ 8 = 476
+[0, 0, 8, 2]
+[0, 0, 0, 128]
+[0, 0, 0, 8]
+[2, 4, 32, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 16 = 488
+[2, 0, 0, 0]
+[0, 0, 0, 2]
+[0, 0, 8, 128]
+[2, 4, 32, 16]
+
+players/greedy.py moves n
++ 4 = 480
+[4, 4, 8, 2]
+[0, 0, 32, 128]
+[0, 0, 0, 16]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 8 = 496
+[8, 8, 2, 2]
+[32, 128, 0, 0]
+[16, 0, 0, 0]
+[2, 0, 0, 0]
+
+players/greedy.py moves e
++ 20 = 500
+[0, 0, 16, 4]
+[0, 0, 32, 128]
+[0, 0, 0, 16]
+[2, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 4 = 500
+[16, 4, 0, 2]
+[32, 128, 0, 0]
+[16, 0, 0, 0]
+[4, 0, 0, 0]
+
+players/greedy.py moves n
++ 0 = 500
+[16, 4, 0, 2]
+[32, 128, 0, 0]
+[16, 0, 0, 0]
+[4, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 504
+[16, 2, 0, 0]
+[32, 0, 0, 0]
+[16, 4, 0, 0]
+[4, 128, 0, 4]
+
+players/greedy.py moves n
++ 0 = 500
+[16, 2, 0, 4]
+[32, 4, 0, 0]
+[16, 128, 0, 0]
+[4, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 504
+[16, 2, 0, 0]
+[32, 2, 0, 0]
+[16, 4, 0, 4]
+[4, 128, 0, 2]
+
+players/greedy.py moves e
++ 8 = 508
+[0, 0, 16, 2]
+[0, 0, 32, 2]
+[0, 0, 16, 8]
+[2, 4, 128, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 508
+[2, 0, 16, 0]
+[0, 0, 32, 4]
+[0, 0, 16, 8]
+[2, 4, 128, 2]
+
+players/greedy.py moves n
++ 4 = 512
+[4, 4, 16, 4]
+[0, 0, 32, 8]
+[0, 0, 16, 2]
+[0, 0, 128, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 8 = 516
+[8, 16, 4, 2]
+[32, 8, 0, 0]
+[16, 2, 0, 0]
+[128, 2, 0, 0]
+
+players/greedy.py moves n
++ 4 = 516
+[8, 16, 4, 2]
+[32, 8, 0, 0]
+[16, 4, 0, 0]
+[128, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 520
+[8, 2, 0, 0]
+[32, 16, 0, 0]
+[16, 8, 0, 0]
+[128, 4, 4, 4]
+
+players/greedy.py moves e
++ 8 = 524
+[0, 0, 8, 2]
+[0, 0, 32, 16]
+[0, 0, 16, 8]
+[2, 128, 4, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 16 = 536
+[2, 0, 8, 0]
+[0, 0, 32, 2]
+[0, 0, 16, 16]
+[2, 128, 4, 16]
+
+players/greedy.py moves n
++ 36 = 560
+[4, 128, 8, 2]
+[0, 0, 32, 32]
+[0, 0, 16, 0]
+[0, 0, 4, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 64 = 600
+[4, 128, 8, 2]
+[64, 0, 0, 2]
+[16, 0, 0, 0]
+[4, 2, 0, 0]
+
+players/greedy.py moves n
++ 4 = 564
+[4, 128, 8, 4]
+[64, 2, 0, 0]
+[16, 0, 0, 0]
+[4, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 600
+[4, 2, 0, 0]
+[64, 0, 0, 0]
+[16, 128, 0, 4]
+[4, 2, 8, 2]
+
+players/greedy.py moves n
++ 0 = 564
+[4, 2, 8, 4]
+[64, 128, 0, 2]
+[16, 2, 0, 0]
+[4, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 604
+[4, 2, 0, 0]
+[64, 2, 0, 0]
+[16, 128, 0, 4]
+[4, 2, 8, 4]
+
+players/greedy.py moves n
++ 12 = 576
+[4, 4, 8, 8]
+[64, 128, 0, 0]
+[16, 2, 0, 0]
+[4, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 24 = 628
+[8, 16, 0, 2]
+[64, 128, 0, 0]
+[16, 2, 0, 0]
+[4, 2, 0, 0]
+
+players/greedy.py moves n
++ 4 = 580
+[8, 16, 0, 2]
+[64, 128, 0, 0]
+[16, 4, 0, 0]
+[4, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 632
+[8, 2, 0, 0]
+[64, 16, 0, 0]
+[16, 128, 0, 0]
+[4, 4, 0, 4]
+
+players/greedy.py moves e
++ 8 = 588
+[0, 0, 8, 2]
+[0, 0, 64, 16]
+[0, 0, 16, 128]
+[2, 0, 4, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 632
+[2, 0, 8, 2]
+[0, 0, 64, 16]
+[0, 0, 16, 128]
+[2, 0, 4, 8]
+
+players/greedy.py moves n
++ 4 = 592
+[4, 0, 8, 2]
+[0, 0, 64, 16]
+[0, 0, 16, 128]
+[0, 2, 4, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 632
+[2, 0, 8, 2]
+[0, 0, 64, 16]
+[0, 0, 16, 128]
+[4, 2, 4, 8]
+
+players/greedy.py moves n
++ 0 = 592
+[2, 2, 8, 2]
+[4, 0, 64, 16]
+[0, 0, 16, 128]
+[0, 2, 4, 8]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 636
+[2, 0, 8, 2]
+[0, 0, 64, 16]
+[2, 0, 16, 128]
+[4, 4, 4, 8]
+
+players/greedy.py moves e
++ 8 = 600
+[0, 2, 8, 2]
+[0, 0, 64, 16]
+[0, 2, 16, 128]
+[2, 4, 8, 8]
+
+players/greedy_and_no_game_over.py moves w
++ 16 = 652
+[2, 8, 2, 2]
+[64, 16, 0, 0]
+[2, 16, 128, 0]
+[2, 4, 16, 0]
+
+players/greedy.py moves n
++ 36 = 636
+[2, 8, 2, 2]
+[64, 32, 128, 0]
+[4, 4, 16, 0]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 12 = 664
+[2, 8, 4, 2]
+[64, 32, 128, 0]
+[8, 16, 0, 0]
+[2, 0, 0, 0]
+
+players/greedy.py moves n
++ 0 = 636
+[2, 8, 4, 2]
+[64, 32, 128, 0]
+[8, 16, 0, 0]
+[2, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 668
+[2, 2, 0, 0]
+[64, 8, 0, 0]
+[8, 32, 4, 0]
+[2, 16, 128, 4]
+
+players/greedy.py moves e
++ 4 = 640
+[0, 0, 0, 4]
+[0, 0, 64, 8]
+[2, 8, 32, 4]
+[2, 16, 128, 4]
+
+players/greedy_and_no_game_over.py moves s
++ 12 = 680
+[2, 0, 0, 0]
+[0, 0, 64, 4]
+[0, 8, 32, 8]
+[4, 16, 128, 8]
+
+players/greedy.py moves n
++ 16 = 656
+[2, 8, 64, 4]
+[4, 16, 32, 16]
+[0, 0, 128, 0]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 680
+[2, 0, 0, 0]
+[0, 0, 64, 4]
+[2, 8, 32, 16]
+[4, 16, 128, 2]
+
+players/greedy.py moves n
++ 4 = 660
+[4, 8, 64, 4]
+[4, 16, 32, 16]
+[0, 0, 128, 2]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 12 = 692
+[2, 0, 0, 0]
+[0, 0, 64, 4]
+[0, 8, 32, 16]
+[8, 16, 128, 4]
+
+players/greedy.py moves n
++ 0 = 660
+[2, 8, 64, 4]
+[8, 16, 32, 16]
+[0, 0, 128, 4]
+[0, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 692
+[2, 0, 0, 4]
+[0, 0, 64, 16]
+[2, 8, 32, 4]
+[8, 16, 128, 2]
+
+players/greedy.py moves n
++ 4 = 664
+[4, 8, 64, 4]
+[8, 16, 32, 16]
+[0, 0, 128, 4]
+[0, 0, 2, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 4 = 696
+[4, 8, 64, 4]
+[8, 16, 32, 16]
+[128, 4, 0, 2]
+[4, 0, 0, 0]
+
+players/greedy.py moves n
++ 0 = 664
+[4, 8, 64, 4]
+[8, 16, 32, 16]
+[128, 4, 0, 2]
+[4, 0, 0, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 700
+[4, 2, 0, 0]
+[8, 8, 0, 4]
+[128, 16, 64, 16]
+[4, 4, 32, 4]
+
+players/greedy.py moves e
++ 24 = 688
+[0, 0, 4, 2]
+[0, 0, 16, 4]
+[128, 16, 64, 16]
+[2, 8, 32, 4]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 700
+[2, 0, 4, 2]
+[0, 0, 16, 4]
+[128, 16, 64, 16]
+[2, 8, 32, 4]
+
+players/greedy.py moves n
++ 0 = 688
+[2, 16, 4, 2]
+[128, 8, 16, 4]
+[2, 0, 64, 16]
+[0, 2, 32, 4]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 700
+[2, 0, 4, 2]
+[2, 16, 16, 4]
+[128, 8, 64, 16]
+[2, 2, 32, 4]
+
+players/greedy.py moves e
++ 36 = 724
+[0, 2, 4, 2]
+[0, 2, 32, 4]
+[128, 8, 64, 16]
+[2, 4, 32, 4]
+
+players/greedy_and_no_game_over.py moves s
++ 4 = 704
+[2, 0, 4, 2]
+[0, 4, 32, 4]
+[128, 8, 64, 16]
+[2, 4, 32, 4]
+
+players/greedy.py moves n
++ 0 = 724
+[2, 4, 4, 2]
+[128, 8, 32, 4]
+[2, 4, 64, 16]
+[0, 2, 32, 4]
+
+players/greedy_and_no_game_over.py moves w
++ 8 = 712
+[2, 8, 2, 2]
+[128, 8, 32, 4]
+[2, 4, 64, 16]
+[2, 32, 4, 0]
+
+players/greedy.py moves n
++ 20 = 744
+[2, 16, 2, 2]
+[128, 4, 32, 4]
+[4, 32, 64, 16]
+[0, 0, 4, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 4 = 716
+[2, 16, 4, 2]
+[128, 4, 32, 4]
+[4, 32, 64, 16]
+[4, 2, 0, 0]
+
+players/greedy.py moves n
++ 8 = 752
+[2, 16, 4, 2]
+[128, 4, 32, 4]
+[8, 32, 64, 16]
+[0, 2, 0, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 4 = 720
+[2, 16, 4, 2]
+[128, 4, 32, 4]
+[8, 32, 64, 16]
+[4, 0, 0, 2]
+
+players/greedy.py moves n
++ 0 = 752
+[2, 16, 4, 2]
+[128, 4, 32, 4]
+[8, 32, 64, 16]
+[4, 0, 2, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 4 = 724
+[2, 16, 4, 2]
+[128, 4, 32, 4]
+[8, 32, 64, 16]
+[4, 4, 0, 2]
+
+players/greedy.py moves e
++ 8 = 760
+[2, 16, 4, 2]
+[128, 4, 32, 4]
+[8, 32, 64, 16]
+[2, 0, 8, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 0 = 724
+[2, 2, 4, 2]
+[128, 16, 32, 4]
+[8, 4, 64, 16]
+[2, 32, 8, 2]
+
+players/greedy.py moves e
++ 4 = 764
+[2, 4, 4, 2]
+[128, 16, 32, 4]
+[8, 4, 64, 16]
+[2, 32, 8, 2]
+
+players/greedy_and_no_game_over.py moves w
++ 8 = 732
+[2, 8, 2, 2]
+[128, 16, 32, 4]
+[8, 4, 64, 16]
+[2, 32, 8, 2]
+
+players/greedy.py moves e
++ 4 = 768
+[2, 2, 8, 4]
+[128, 16, 32, 4]
+[8, 4, 64, 16]
+[2, 32, 8, 2]
+
+players/greedy_and_no_game_over.py moves s
++ 8 = 740
+[2, 2, 8, 2]
+[128, 16, 32, 8]
+[8, 4, 64, 16]
+[2, 32, 8, 2]
+
+players/greedy.py moves e
++ 4 = 772
+[2, 4, 8, 2]
+[128, 16, 32, 8]
+[8, 4, 64, 16]
+[2, 32, 8, 2]
+
+Game over
